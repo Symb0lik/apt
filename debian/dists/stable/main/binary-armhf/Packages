@@ -8,9 +8,9 @@ Depends: socat
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.2_armhf.deb
-Size: 31556
-SHA256: bfbaa137e67c6f104603b69daf8f68f6a3e75199216f7964ccf82206f1d213dc
-SHA1: f727f42dbde7d08a14823aa3f522252d891869d2
-MD5sum: 390f75c25954bad0e71b5a4a297e867f
+Size: 32704
+SHA256: 9c4eb10a55015033a7fcac7ab62f69837081190f24d8653fed4ab34b9d717c15
+SHA1: 836fe8eb4fcd76fb433ccafc8017652f50a42c63
+MD5sum: f07e23aaccfd1cb466d7b9e0a0c77cab
 Description: Thermal printer daemon for DevTerm
 
