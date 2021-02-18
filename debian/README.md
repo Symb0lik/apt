@@ -1,11 +1,11 @@
-#Raspberry pi CM3
-## Enable SPI0
+# Raspberry pi CM3
+### Enable SPI0
 
-SPI0 is disabled by default. To enable it, use *raspi-config*, or ensure the line *dtparam=spi=on* isn't commented out in /boot/config.txt
+SPI0 is disabled by default. To enable it, use *raspi-config*, or ensure the line **dtparam=spi=on** isn't commented out in `/boot/config.txt`
 
-add dtoverlay=spi-gpio35-39 under *dtparam=spi=on*, then reboot
+add **dtoverlay=spi-gpio35-39** under **dtparam=spi=on**, then reboot
 
-after reboot,make suer there is a /dev/spidev0.0
+after reboot,make suer there is a `/dev/spidev0.0`
 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -17,3 +17,8 @@ echo "deb https://raw.githubusercontent.com/clockworkpi/apt/main/debian/ stable 
 sudo apt update
 
 sudo apt install devterm-thermal-printer
+
+
+### How to test
+
+echo "this is a test" > /tmp/DEVTERM_PRINTER_IN
