@@ -1,3 +1,18 @@
+Package: devterm-fan-temp-daemon-rpi
+Version: 0.1
+Installed-Size: 48
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: python2
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-temp-daemon-rpi/devterm-fan-temp-daemon-rpi_0.1_all.deb
+Size: 14008
+SHA256: 0e701dbcd82cdaa6c51a2af256b38770be9f9702f3b612fc89642d2ea50b994a
+SHA1: b585818cbabf347fee26bb5d0c8c083239d6881a
+MD5sum: dd80ec2d8cde75797f94894d78fc231e
+Description: devterm fan control script for raspberry pi
+
 Package: devterm-keyboard-firmware
 Version: 0.1
 Installed-Size: 112
