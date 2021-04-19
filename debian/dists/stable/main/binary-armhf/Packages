@@ -29,7 +29,7 @@ MD5sum: dd9de9937260fbe93be48278e259f1e2
 Description: devterm-keyboard-firmware
 
 Package: devterm-thermal-printer
-Version: 0.22
+Version: 0.23
 Installed-Size: 124
 Maintainer: cuu <gnubsd@me.com>
 Homepage: https://github.com/clockworkpi/thermal_printer
@@ -37,10 +37,10 @@ Architecture: armhf
 Depends: socat
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.22_armhf.deb
-Size: 32864
-SHA256: 41a0410d74e3441d98d35eefb711dc0d09a995ff7912cb1cafaf770d7bcebdea
-SHA1: b33481c28b08a78df4456a892e06307bfafa01a2
-MD5sum: aaedf4857c5faea8dc9bfcb4e210eff4
+Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.23_armhf.deb
+Size: 34380
+SHA256: 56bff724990d6b41599ffe72d7922e257a709a9d699198728cc7a8b0fbd51d7b
+SHA1: d99c9630185142f63278a36739bce2ad935849b5
+MD5sum: 40cd12e2785b7e6cf1636fafd9b4190c
 Description: Thermal printer daemon for DevTerm
 
