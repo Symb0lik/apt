@@ -46,17 +46,17 @@ Description: Thermal printer daemon for DevTerm
 
 Package: devterm-thermal-printer-cups
 Version: 0.1
-Installed-Size: 72
+Installed-Size: 76
 Maintainer: cuu <gnubsd@me.com>
 Architecture: armhf
 Depends: cups, cups-client, devterm-thermal-printer
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-thermal-printer-cups/devterm-thermal-printer-cups_0.1_armhf.deb
-Size: 19696
-SHA256: 0ad3e84cb4b4100e37d91aabb2f3a21ef3448b6153ee65b8a913640e11fa8352
-SHA1: d91fb2c2856906085a67232f01cba13ca5088e21
-MD5sum: ecfb98d11f9fd9c8912e9ced7add4ce3
+Size: 19728
+SHA256: fa01e73edf318fe7325dd75e529845e47c1a5b83d0fae45bebfe89e742776fa3
+SHA1: 574dcbfee24044187d5836e0751540ec114a41d8
+MD5sum: 08c4aee7d8382c6e843b10adf4631d4c
 Description: devterm thermal printer cups filter and config
  devterm thermal printer cups filter
  add a devterm_printer in CUPS
