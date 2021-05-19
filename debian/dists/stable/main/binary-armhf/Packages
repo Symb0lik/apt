@@ -14,18 +14,18 @@ MD5sum: dc1af3d96bbae2a2e57eedb03484e4f0
 Description: devterm fan control script for raspberry pi
 
 Package: devterm-keyboard-firmware
-Version: 0.22
+Version: 0.23
 Installed-Size: 144
 Maintainer: cuu <gnubsd@me.com>
 Architecture: all
 Depends: dfu-util
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.22_all.deb
-Size: 105644
-SHA256: d15880acfe09a30dcb38b1f429344aaaae8059e1ed03979a3853b563a67dbee4
-SHA1: 25693d0a0f359634822ce80fc5ab3f00ace12c36
-MD5sum: 732de8644675f3371f806a2b77daf12e
+Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.23_all.deb
+Size: 105452
+SHA256: e2d3a7670c5e179fa73fe38b91e4ac0f4011ecb55a16d517ced7fd7a7dcfb744
+SHA1: 849f2cbace78da049e9611bfb1dbef94823fefa4
+MD5sum: 6f066a6472628dcf035ec120c0b249ba
 Description: devterm-keyboard-firmware
 
 Package: devterm-thermal-printer
