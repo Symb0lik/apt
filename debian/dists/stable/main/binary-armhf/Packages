@@ -14,17 +14,18 @@ MD5sum: dc1af3d96bbae2a2e57eedb03484e4f0
 Description: devterm fan control script for raspberry pi
 
 Package: devterm-kernel-rpi
-Version: 0.01
-Installed-Size: 67020
+Version: 0.02
+Installed-Size: 67028
 Maintainer: cuu <gnubsd@me.com>
 Architecture: armhf
+Replaces: raspberrypi-kernel
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-kernel-rpi/devterm-kernel-rpi_0.01_armhf.deb
-Size: 18237988
-SHA256: cbf9d803fd6a9daf9f1a46bb590bce4a41b526a4c9cab8b7a278d006f08b295c
-SHA1: 523cb1212e1306fcc384ad77bfd13e7c803e2fc6
-MD5sum: d58a7bded5b75171307062ade18db0db
+Filename: pool/main/d/devterm-kernel-rpi/devterm-kernel-rpi_0.02_armhf.deb
+Size: 18238048
+SHA256: 8ecff1f7a77a92edc33b7b891f665626ee515b700556699b5061e393c48f3117
+SHA1: 041ac88caca10488c310445463c007eb9652028b
+MD5sum: ac4bd4a72db30efe89119533a8f55b8b
 Description: devterm-kernel-rpi
  devterm kernel for rpi cm3
 
