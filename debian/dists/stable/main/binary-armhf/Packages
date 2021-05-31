@@ -30,19 +30,24 @@ Description: devterm-kernel-rpi
  devterm kernel for rpi cm3
 
 Package: devterm-keyboard-firmware
-Version: 0.25
+Version: 0.26
 Installed-Size: 144
 Maintainer: cuu <gnubsd@me.com>
 Architecture: all
 Depends: dfu-util
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.25_all.deb
-Size: 105544
-SHA256: f090d471470eb746e1eba5120ce0aa16f4d0d658234f8d306073d71929012807
-SHA1: 546ce90c96266c8e1defc6b72ff3e5dccc369cf3
-MD5sum: 11320e4c640468c1664ab24f8d0c3337
+Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.26_all.deb
+Size: 106560
+SHA256: 95f068b89d39eecd2b3f69c6a2d1b04d9571886d4585c6571080017ca885beee
+SHA1: 2a333a13fd770971c5abef324ded4f369d103ddf
+MD5sum: d60da7f4b6ba795daded213407c2d49b
 Description: devterm-keyboard-firmware
+ devterm keyboard firmware
+ .
+ this deb only downloads the firmware into /usr/local/bin
+ .
+ if you need to flash, do it manually
 
 Package: devterm-thermal-printer
 Version: 0.28
