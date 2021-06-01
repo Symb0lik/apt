@@ -37,10 +37,10 @@ Conflicts: raspberrypi-kernel
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-kernel-rpi/devterm-kernel-rpi_0.06_armhf.deb
-Size: 18277440
-SHA256: 01f312e9827be1dd7ef870fb3ce21e78f4fb4980cd2069e0d57c8209243486df
-SHA1: 9cc04479b4ecd56ff4e8f104f049e209183ef345
-MD5sum: 03abf81dc082ddf8652e6fdac0ee1bdb
+Size: 18278832
+SHA256: c9e785404af5e2144db8fa45c4ce3de9cae20379db80ae3594d717966d194e15
+SHA1: afe945d68c3486db7eed27f9ac3b147935a753d7
+MD5sum: 62163da8483de367513b773a081ac2de
 Description: devterm-kernel-rpi
  devterm kernel for rpi cm3
 
