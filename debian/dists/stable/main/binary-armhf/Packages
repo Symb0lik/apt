@@ -1,3 +1,18 @@
+Package: devterm-audio-patch
+Version: 0.01
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-audio-patch/devterm-audio-patch_0.01_all.deb
+Size: 13892
+SHA256: 6ff9107db173c55d5d0d89ce89b890e3faa1214ff4c57f237cfdbd8926a8fa48
+SHA1: 44e7b16edfd31df5db3c358329f7aafd85e0b2bc
+MD5sum: 0403758b3805c298c0a1e3087a136c44
+Description: devterm-audio-patch
+ devterm audio patch
+
 Package: devterm-fan-temp-daemon-rpi
 Version: 0.12
 Installed-Size: 52
