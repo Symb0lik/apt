@@ -4,33 +4,33 @@ Hash: SHA256
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Tue, 01 Jun 2021 00:59:08 UTC
+Date: Tue, 01 Jun 2021 01:03:38 UTC
 Architectures: armhf
 Components: main
 Description: test repository
 MD5Sum:
- 5d3fa2fed862c613d58c15bf217766de 2722 main/binary-armhf/Packages
- 23bde76aec4d0bbf99247911a3de5f52 1106 main/binary-armhf/Packages.gz
+ ef70a3bdf40ada73c97c9e6a64e9f408 2722 main/binary-armhf/Packages
+ 7ac6da21d6ff50c8fe86ff67e93313ae 1105 main/binary-armhf/Packages.gz
  e78ab3d0894fe637dfc81febdfe9e2e0 133 main/binary-armhf/Release
 SHA1:
- f85dbdbb6447da80614b8ea47628f4d1eada80f4 2722 main/binary-armhf/Packages
- 8de99dc5a1085c76a29379afe374c7c1ecbf1224 1106 main/binary-armhf/Packages.gz
+ 665d0d8295e334b84ff4bc8b426d6b123ef363d7 2722 main/binary-armhf/Packages
+ 343cc9ec5d122dfbedeab0c31f0b2ad0ae668657 1105 main/binary-armhf/Packages.gz
  6c6d59970adfeae5a666a944fafd1ff26bd7a19f 133 main/binary-armhf/Release
 SHA256:
- a72de2fb7db33bd6a99f2eef36cf2233fa5c187f6d202cc823e0947cd34078eb 2722 main/binary-armhf/Packages
- 078e7ae72e9049d5e4d27da1adc92efdcf9b1702eb6351abad4bfb3ed26a00d3 1106 main/binary-armhf/Packages.gz
+ 3bb3755d9047f6ec2f7fcc198aa075fb52dd0546bd7905a3ca78fea3e5949e7b 2722 main/binary-armhf/Packages
+ 7222fcd4b50a234ed5fba7b6156c0590decc917115b031a61e000d514a10a48b 1105 main/binary-armhf/Packages.gz
  12ec441437b47dddeedbc631363c9d23cb4682784a918d7d78757bf8a038b949 133 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQHCBAEBCAAsFiEEV7epi766jBDKRFiBDdCIEUeLEkkFAmC1hl0OHGdudWJzZEBt
-ZS5jb20ACgkQDdCIEUeLEklDNQv/RRfsftUOMkyyOMs2/o4XRZXqtWZUjbblrPEO
-PAyUoYC3y8ijr96P9I6EGGjkaHiSF3HgWgLmzsi82xaftybdYDfZr2eOVEsloqEl
-szsUmSA+JKRMqPX/AJebokp0k/zmOogoHy9/LbfLcJ78aepupRXppj5n1A4L5VAp
-+IE6c4pELisH4Bckwgn6pQxlvJ2YbXmiUEBdNK2gfWmpXhPdEyTD6yht7d+x5GKf
-HSoxa79UCgWFjFUzIJVuQSKosAVuxGI9SMBbAl4yj2UclcMD5dbC1Y0j+G6X/ReK
-xlRIRb3UEf4//gXo6xsHRAQc0Fq6QfQZ7AIPC0k1fNUSplVcuPPubax27dUB3Zpz
-rWR4Utdmq0ru0pdhQAicEKe+bjHPK2Qx3XcZQXB9dXkU8wptEQvCUgg4qpxUyZ6n
-UG+lscnNCAIUUsoRiG+SJBUBtgi7FxbtpNUp4B61gzaTYD3ST7t7bGtqkm7srPXU
-VoYsCLRLnYHFk4RKHJdsSl04WHpw
-=n987
+iQHCBAEBCAAsFiEEV7epi766jBDKRFiBDdCIEUeLEkkFAmC1h2oOHGdudWJzZEBt
+ZS5jb20ACgkQDdCIEUeLEkmYGAv9HYN8Z5k5uWwTSWpqclfskJT4MjEFE/Hrhr3G
+NLyfrmLTFecdiLyszNfgQMo6ep/+FSMwAPfG0Y6Vtyh/wNJDX8pQ1gYAPluiMhuV
+qBuQMIjgdXDF19IsQ9dY10Xhki+y3dErO1vPRtGZymbkGFuaAPu6zPu6o2DJJg+x
+ZZoPR1K2o9ULzlrnowJt62d8OTic3+HbMKSodL85SjkDMpohYY1O47JBqSPQyFG5
+FbM2WkxwIie35CMOdUgxY+6/xMWKjHG9mTUQxfqgxOwtWaqLF8L/Kks3+1qu0lWZ
+veEXqEgzmglzRwXxSTm0pYsvXPfs13mnHmva1Rpc8GdtGGy/nNAogWArKzZND09a
+udYwxy9h6qsd4P57e4+oqlXRZwbPIjQ3iKzCTFPNzZyZtmYizV8+y9lNTxUd7vZD
+MZeWVCl/kbfJ2SYOPi/WQ24dt5dpynDJglk5AW4NBXx03xrwk6qaigGm+zd/oytj
+UnzV/XZ5DVFEtSVuwUBr4SpMXYKK
+=GM9w
 -----END PGP SIGNATURE-----
