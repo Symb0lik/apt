@@ -45,18 +45,18 @@ Description: devterm-kernel-rpi
  devterm kernel for rpi cm3
 
 Package: devterm-keyboard-firmware
-Version: 0.29
-Installed-Size: 144
+Version: 0.30
+Installed-Size: 148
 Maintainer: cuu <gnubsd@me.com>
 Architecture: all
 Depends: dfu-util
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.29_all.deb
-Size: 106140
-SHA256: 059b213f144b8cae8cc52b2567eaf076c6522dae01ed9a53e70d91ac3f806f83
-SHA1: bb7c522e5d5f5e09145ff88517cbb0499a33efc4
-MD5sum: 201408452810dc9158525c706e38862b
+Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.30_all.deb
+Size: 106440
+SHA256: dc56a09ef197b1f24456087c59ca0370b55cb9ffddd8332a966ad656128dbc2c
+SHA1: af52caabac65378f9f55fdf6626630aefb7b2aae
+MD5sum: 014c276a4f51cb09116b7cbf1285cdf1
 Description: devterm-keyboard-firmware
  devterm keyboard firmware
  .
