@@ -1,19 +1,19 @@
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Mon, 12 Jul 2021 05:34:05 UTC
+Date: Tue, 13 Jul 2021 07:13:29 UTC
 Architectures: armhf
 Components: main
 Description: test repository
 MD5Sum:
- 770ce075f80ba953b4514f1c62dcc600 3171 main/binary-armhf/Packages
- 3578bc723b68bd923b933d4830bad2f5 1235 main/binary-armhf/Packages.gz
+ 6bfdd0e7b2805e447dacc4bec97044af 3171 main/binary-armhf/Packages
+ 1ee3f033fc87201438ba197c928d5c09 1237 main/binary-armhf/Packages.gz
  e78ab3d0894fe637dfc81febdfe9e2e0 133 main/binary-armhf/Release
 SHA1:
- be6dbb12404ea39c9b2007de0ec27895bb6db410 3171 main/binary-armhf/Packages
- 4ea5faaa06ffa2d27e684b923ec2abc13f43d711 1235 main/binary-armhf/Packages.gz
+ b5477a45f94cb9b61c89cc86a789b221cc0e795a 3171 main/binary-armhf/Packages
+ 6940715aa523affe23e4a2c8c23a12b83d1ded40 1237 main/binary-armhf/Packages.gz
  6c6d59970adfeae5a666a944fafd1ff26bd7a19f 133 main/binary-armhf/Release
 SHA256:
- 53d7bd0bd39ec3809262f493fb63f77dbc4d1533a06ab61a2c70c88af5eb08c6 3171 main/binary-armhf/Packages
- 011a3dc96e77e39dc5ef2f3854fe1521a0aaab0f0fb68b75acdaf65e9729532b 1235 main/binary-armhf/Packages.gz
+ 2de3d8ef1852239073efb431f47f03f660df2751536dd145ea685a16c3b3a4b7 3171 main/binary-armhf/Packages
+ 4faf43950ae98b6b7beca32c46f9f6a540cfc8e388d7c506cd549c622a1ac519 1237 main/binary-armhf/Packages.gz
  12ec441437b47dddeedbc631363c9d23cb4682784a918d7d78757bf8a038b949 133 main/binary-armhf/Release
