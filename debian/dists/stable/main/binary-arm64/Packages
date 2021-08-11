@@ -58,10 +58,10 @@ Depends: socat
 Priority: optional
 Section: utils
 Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.3_arm64.deb
-Size: 35736
-SHA256: 48889ff6bad5ffb29013e857f1362d21d91fb9344af0f01fc000dfb23e1b38fb
-SHA1: a45e7e7f5805ab289b3c5e7fadcc341e7e14388b
-MD5sum: 000ccaff6d91c065255c6cececfb7833
+Size: 35788
+SHA256: df873135e8555a22f012ebdce2da000615a6db39157f77fc8082583668a420cc
+SHA1: 29094a865454741be8c756f69be07feaacb20dcd
+MD5sum: cad54a582a99339dc3fe683f770b4fb2
 Description: Thermal printer daemon for DevTerm
 
 Package: devterm-thermal-printer-cups
