@@ -48,6 +48,22 @@ Description: devterm-keyboard-firmware
  .
  if you need to flash, do it manually
 
+Package: devterm-thermal-printer
+Version: 0.29
+Installed-Size: 136
+Maintainer: cuu <gnubsd@me.com>
+Homepage: https://github.com/clockworkpi/thermal_printer
+Architecture: arm64
+Depends: socat
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-thermal-printer/devterm-thermal-printer_0.29_arm64.deb
+Size: 35692
+SHA256: 72555d7bd1f7d0a1fe5b1af4cabda8acd9744b7905d34950d662077b1245e1f3
+SHA1: 1ba3dca72b51e2cd3e8f8ada2d158f91bf907173
+MD5sum: b31a431d6cb149204dbaf5f82fafd1ec
+Description: Thermal printer daemon for DevTerm
+
 Package: devterm-thermal-printer-cups
 Version: 0.1
 Installed-Size: 80
