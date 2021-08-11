@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
@@ -26,3 +29,17 @@ SHA256:
  640c1b0aed7d79e48406e371b30e0954776630cf012cecab214f075674d71741 2624 main/binary-arm64/Packages
  f21154fcd18fd7a3e04328f1e44be5e9034c709c94a0229431bff4ef4528d5a0 1048 main/binary-arm64/Packages.gz
  ae10a9686b2ca7c38f4cca90d8d3ed3d1de57d0da063f41e8179ddec2f46ad66 132 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQHCBAEBCAAsFiEEV7epi766jBDKRFiBDdCIEUeLEkkFAmETXBkOHGdudWJzZEBt
+ZS5jb20ACgkQDdCIEUeLEklloAwAqU7RDMA+DZIj9oxCHvRBnINou0UGA/Oj+LOK
+q3u3XJpQJOfFSFWA0g1QRhEx4ubOi7DVpVAX8sh8jskrhrHOvxh3IHYCniroAOPb
+PpnKieZteEIb/AkTMyOmY+MjgyL01dVg3afyt425KFVhX/biJ9Nf3WkdNl6TfN5w
+1IjkbiTYgC4txlIhaD4GJbT8PJHFFsHaZ6mge5HhzMiccl39tM5qxUJHhUgrz0yM
+5V2QubotKOaC/6gvWf13SAaw2VOiYf0BWZkGaS5HKCTgHPTKGDui3pJR4dqBeGpA
+CZBcT66/albOjXZ6oBFJvbKGVYe81PJvNhnP3zytfDbXF57iga6fiSpJsZPwFDrq
+tTZwIsX/rG1zph6v4DyKBRMwQJG80iT2PgK2L159BUiVDFN+ktPol486tgmkVE5q
+vPt5PSnKt6ev59xhaeq2Ns8y2ZGSY3gu6y2alSKwQyVTbfDmTf5uR5YzkHGkGsfa
+JqZBx/TJC1Bu7gSXJn7L3KgIX7cg
+=i0w+
+-----END PGP SIGNATURE-----

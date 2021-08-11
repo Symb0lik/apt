@@ -65,3 +65,19 @@ Description: devterm thermal printer cups filter and config
  devterm thermal printer cups filter
  add a devterm_printer in CUPS
 
+Package: devterm-wiringpi-cpi
+Version: 0.1
+Installed-Size: 204
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: wiringpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-wiringpi-cpi/devterm-wiringpi-cpi_0.1_arm64.deb
+Size: 53280
+SHA256: 4b0020b43ef3aa04570c51e87fc01982d76bdcbf38484ac9ceccb8a408629572
+SHA1: f1af84217a50934a1c7bac7fc5d6ed44cb7da589
+MD5sum: ce4529b9d2611b6b6716fe2e9e3cf540
+Description: wiringpi for cpi a06
+ wiringpi for cpi a06
+
