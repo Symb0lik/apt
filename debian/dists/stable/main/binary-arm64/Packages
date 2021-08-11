@@ -1,0 +1,67 @@
+Package: devterm-audio-patch
+Version: 0.01
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-audio-patch/devterm-audio-patch_0.01_all.deb
+Size: 13892
+SHA256: 6ff9107db173c55d5d0d89ce89b890e3faa1214ff4c57f237cfdbd8926a8fa48
+SHA1: 44e7b16edfd31df5db3c358329f7aafd85e0b2bc
+MD5sum: 0403758b3805c298c0a1e3087a136c44
+Description: devterm-audio-patch
+ devterm audio patch
+
+Package: devterm-fan-temp-daemon-rpi
+Version: 0.12
+Installed-Size: 52
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: python2
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-fan-temp-daemon-rpi/devterm-fan-temp-daemon-rpi_0.12_all.deb
+Size: 14060
+SHA256: 75f6e34a138d9eabf56c40c8391e9a88594d94a831650f21f34eaaca1d33bb4d
+SHA1: 3625189bb19d1027f01155650560a5560ef87b0c
+MD5sum: dc1af3d96bbae2a2e57eedb03484e4f0
+Description: devterm fan control script for raspberry pi
+
+Package: devterm-keyboard-firmware
+Version: 0.30
+Installed-Size: 148
+Maintainer: cuu <gnubsd@me.com>
+Architecture: all
+Depends: dfu-util
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-keyboard-firmware/devterm-keyboard-firmware_0.30_all.deb
+Size: 106440
+SHA256: dc56a09ef197b1f24456087c59ca0370b55cb9ffddd8332a966ad656128dbc2c
+SHA1: af52caabac65378f9f55fdf6626630aefb7b2aae
+MD5sum: 014c276a4f51cb09116b7cbf1285cdf1
+Description: devterm-keyboard-firmware
+ devterm keyboard firmware
+ .
+ this deb only downloads the firmware into /usr/local/bin
+ .
+ if you need to flash, do it manually
+
+Package: devterm-thermal-printer-cups
+Version: 0.1
+Installed-Size: 80
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Depends: cups, cups-client, devterm-thermal-printer
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-thermal-printer-cups/devterm-thermal-printer-cups_0.1_arm64.deb
+Size: 21068
+SHA256: 95ecfff71370a00d913236587e94e1eadc191b81a5c9df21270f8aabc96ec842
+SHA1: 1901da0eb9142b6746dac7e21fa295da70fc08fb
+MD5sum: bb4fc8bad414cbf3c8b6f8c64285478c
+Description: devterm thermal printer cups filter and config
+ devterm thermal printer cups filter
+ add a devterm_printer in CUPS
+
