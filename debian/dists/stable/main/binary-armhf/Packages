@@ -14,18 +14,18 @@ Description: devterm-audio-patch
  devterm audio patch
 
 Package: devterm-backlight-rpi
-Version: 0.1
-Installed-Size: 56
+Version: 0.11
+Installed-Size: 64
 Maintainer: cuu <gnubsd@me.com>
 Architecture: armhf
 Depends: xbindkeys
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-backlight-rpi/devterm-backlight-rpi_0.1_armhf.deb
-Size: 17580
-SHA256: 1c45960e658327abd32cef3fe0669ecbfcb6d02f5f1019e773bd3d8f8733457c
-SHA1: d26a1ca0aee9d75fed7a023d988d9287f248b59a
-MD5sum: 7a3d143b774829226cc7af4b9323d4bf
+Filename: pool/main/d/devterm-backlight-rpi/devterm-backlight-rpi_0.11_armhf.deb
+Size: 17944
+SHA256: a9d0d3de256e357675cc6058656b5009c2c882e74b3bb938946685a06548841a
+SHA1: 7df673b279a4a485523b348400381ab172e858cb
+MD5sum: d9098de626c11326d81d0d657e33b01b
 Description: control devterm cm3 backlight by fn + <>
  control devterm cm3 backlight by fn + <>
 
