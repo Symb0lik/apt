@@ -44,6 +44,22 @@ SHA1: 3625189bb19d1027f01155650560a5560ef87b0c
 MD5sum: dc1af3d96bbae2a2e57eedb03484e4f0
 Description: devterm fan control script for raspberry pi
 
+Package: devterm-kernel-current-cpi-a06
+Version: 0.1
+Installed-Size: 223504
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: linux-dtb-current-rockchip64, linux-image-current-rockchip64
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-kernel-current-cpi-a06/devterm-kernel-current-cpi-a06_0.1_arm64.deb
+Size: 41469284
+SHA256: a13456344d804c22af0825a5c2d0b0fdc12c199f4ca207e3b5f0df3c090ae3a0
+SHA1: 571df636b4f628b9bb5ed28e4c54d2387e8132fe
+MD5sum: dc4e4b5a3164cfe461bc4b9cf914babf
+Description: kernel image for devterm a06
+ kernel image for devterm a06
+
 Package: devterm-keyboard-firmware
 Version: 0.30
 Installed-Size: 148
