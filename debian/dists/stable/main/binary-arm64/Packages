@@ -45,18 +45,18 @@ MD5sum: dc1af3d96bbae2a2e57eedb03484e4f0
 Description: devterm fan control script for raspberry pi
 
 Package: devterm-first-start-a06
-Version: 0.1
+Version: 0.2
 Installed-Size: 48
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Depends: zenity
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-first-start-a06/devterm-first-start-a06_0.1_arm64.deb
-Size: 14100
-SHA256: b4431b6988d0a1069b7fbefc9de5db1c43b4c743caae3debcc1048dfbe0c67d4
-SHA1: 488e3e9604c34dbe354a0e67fca83cca4eb7b13f
-MD5sum: c7dcc5790e3207f09b1ec80445cb1043
+Filename: pool/main/d/devterm-first-start-a06/devterm-first-start-a06_0.2_arm64.deb
+Size: 14092
+SHA256: f750d3437b49d5b2a9b82aefdffc86ae2dbc1a39571d7c91d3cd8b212cd16714
+SHA1: 686df0264ecde6c8d581bdcc69186d795c99985f
+MD5sum: f3717a047fddefa6f3332302315b821d
 Description: first start tip window based by zenity
  first start tip window based by zenity
 
