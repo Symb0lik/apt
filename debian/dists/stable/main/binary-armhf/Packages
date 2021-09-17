@@ -29,6 +29,21 @@ MD5sum: c4a4f4a131637cd47bc89c14573e4011
 Description: control devterm cm3 backlight by fn + <>
  control devterm cm3 backlight by fn + <>
 
+Package: devterm-cool-retro-term-rpi
+Version: 0.1
+Architecture: armhf
+Depends: libatomic1,libc6,libdouble-conversion1,libfreetype6,libgcc1,libgles2,libglib2.0-0,libglib2.0-dev,libglvnd0,libgraphite2-3,libharfbuzz0b,libicu63,libpcre2-16-0,libpcre3,libpng16-16,libqt5core5a,libqt5gui5,libqt5network5,libqt5qml5,libqt5quick5,libqt5sql5,libqt5widgets5,libstdc++6,raspi-copies-and-fills,zlib1g
+Maintainer: cuu <gnubsd@me.com>
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-cool-retro-term-rpi/devterm-cool-retro-term-rpi_0.1_armhf.deb
+Size: 1461582
+SHA256: d75df1f1aafafddee3837aa8df8eeee5d2113867e9db2126334be83f17e2ac91
+SHA1: f8a51a2b739e6ace4fb471ff929c69e8a1430985
+MD5sum: ca9e6a78c18976b1dacdb7bfa5d2b89e
+Description: cool retro term for DevTerm CM3.
+ cool retro term for DevTerm CM3,use it with --fullscreen arg
+
 Package: devterm-fan-temp-daemon-rpi
 Version: 0.12
 Installed-Size: 52
