@@ -96,17 +96,17 @@ Description: devterm-keyboard-firmware
  if you need to flash, do it manually
 
 Package: devterm-nxengine-rpi
-Version: 0.1
+Version: 0.11
 Architecture: armhf
 Depends: libasound2,libasyncns0,libbsd0,libc6,libcap2,libdbus-1-3,libffi6,libflac8,libfluidsynth1,libgcc1,libgcrypt20,libglib2.0-0,libglib2.0-dev,libgpg-error0,libice6,libjbig0,libjpeg62,libjpeg62-turbo,liblz4-1,liblzma5,libmodplug1,libmpg123-0,libogg0,libogg-dbg,libopus0,libopusfile0,libopusfile-dbg,libpcre3,libpng16-16,libpulse0,libraspberrypi0,libreadline7,libsdl2-2.0-0,libsdl2-image-2.0-0,libsdl2-mixer-2.0-0,libsm6,libsndfile1,libsndio7.0,libstdc++6,libsystemd0,libtiff5,libtinfo6,libuuid1,libvorbis0a,libvorbisenc2,libvorbisfile3,libwayland-client0,libwayland-cursor0,libwayland-egl1,libwebp6,libwrap0,libx11-6,libx11-xcb1,libxau6,libxau6-dbg,libxcb1,libxcursor1,libxdmcp6,libxext6,libxext6-dbg,libxfixes3,libxi6,libxinerama1,libxkbcommon0,libxrandr2,libxrender1,libxss1,libxtst6,libxxf86vm1,libzstd1,raspi-copies-and-fills,zlib1g
 Maintainer: cuu <gnubsd@me.com>
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-nxengine-rpi/devterm-nxengine-rpi_0.1_armhf.deb
-Size: 1008930
-SHA256: 553a678c80c08a5bc7b150a65b7e42dd7099852be5b401a1df29417fe906bba2
-SHA1: 6a3602ada068953e79944551b5e24e0f837a2241
-MD5sum: 34bee104e9478fffc9e0cdab4631abc6
+Filename: pool/main/d/devterm-nxengine-rpi/devterm-nxengine-rpi_0.11_armhf.deb
+Size: 1008934
+SHA256: c3b339a8fc54972060d7405a2484c022aa9e1c4b637be66a92cca2038a0a529c
+SHA1: b8455844fba838f831b3db59e5d37aa12b2773af
+MD5sum: df7d34689dfb034cc35fc94dc8a5e5f3
 Description: CaveStory for DevTerm CM3.
  CaveStory Game for DevTerm CM3
 
