@@ -143,3 +143,18 @@ Description: devterm thermal printer cups filter and config
  devterm thermal printer cups filter
  add a devterm_printer in CUPS
 
+Package: gameshell-kernel-cpi
+Version: 0.6
+Installed-Size: 9832
+Maintainer: cuu <gnubsd@me.com>
+Architecture: armhf
+Priority: optional
+Section: utils
+Filename: pool/main/g/gameshell-kernel-cpi/gameshell-kernel-cpi_0.6_armhf.deb
+Size: 9391234
+SHA256: a344e3081a298cbd97cffb304962d94a7601ff5872ed4e6e387e9017d9097b8f
+SHA1: ce93b9d4dd8fa5bfa41a670db699d768343cdfeb
+MD5sum: 919f78f425257b2be4d825a0d36d1865
+Description: kernel for gameshell
+ kernel for gameshell
+
