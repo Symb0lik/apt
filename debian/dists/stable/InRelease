@@ -4,42 +4,42 @@ Hash: SHA256
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Thu, 23 Sep 2021 16:52:22 UTC
+Date: Fri, 05 Nov 2021 04:55:21 UTC
 Architectures: armhf arm64
 Components: main
 Description: cpi repository
 MD5Sum:
- d63d09cfbb34d6c8b3a6f455a2b9e1c3 6227 main/binary-armhf/Packages
- 5c15fdf38ad5636f90a822b7a22a234f 2341 main/binary-armhf/Packages.gz
+ 100dc50af5616e2fd71ad10c03710aff 6361 main/binary-armhf/Packages
+ 72b2eeb5740e9b69fcb78bf559fc7501 2380 main/binary-armhf/Packages.gz
  e78ab3d0894fe637dfc81febdfe9e2e0 133 main/binary-armhf/Release
  bebfe59a440d8a5d1d10940d60cc2075 4758 main/binary-arm64/Packages
  e425b30b1ec7e906c7121f01b4d043aa 1690 main/binary-arm64/Packages.gz
  e1a701d89fa7c0df95243911d1580d6d 132 main/binary-arm64/Release
 SHA1:
- fc8790e26f0b1094da435e82b481b4b72a70a79f 6227 main/binary-armhf/Packages
- 430dc80becb80bb40546896d21e4ea4bf62f6256 2341 main/binary-armhf/Packages.gz
+ 20955f6a7357c58f354c7d4a7e48e5f07688e2af 6361 main/binary-armhf/Packages
+ 8c419da1bb4c14d735b4d560be19a3c66fa17580 2380 main/binary-armhf/Packages.gz
  6c6d59970adfeae5a666a944fafd1ff26bd7a19f 133 main/binary-armhf/Release
  8d4c0bb9a6ddbcdd715557461fdbc3419fe4f1d5 4758 main/binary-arm64/Packages
  c9e52fd72723d44d46c23189381b4659ae8e540d 1690 main/binary-arm64/Packages.gz
  93043cb202ad6c014b45b1d6565687c45ff6914f 132 main/binary-arm64/Release
 SHA256:
- b32fb4599258051c9980a50f712fa66b199b7cd757dae135bc6f0c5f158fd437 6227 main/binary-armhf/Packages
- 8614b0c3f041ac2f0cd2770964692b1fda8b4610f73a4081220f25a85243d09c 2341 main/binary-armhf/Packages.gz
+ 5debc3bbf4748fc7e71ba5d35724f1059b1bb1581eafe5ead76d2d0003475a3e 6361 main/binary-armhf/Packages
+ 5174764a15b21f3038f6dca7ee5e350c6317a2f3bdea885f425556e7c87bf122 2380 main/binary-armhf/Packages.gz
  12ec441437b47dddeedbc631363c9d23cb4682784a918d7d78757bf8a038b949 133 main/binary-armhf/Release
  17df72aef9c6ea8e7694a5df118fc39f10241c5cbcf2264207c86a7eb8c1664a 4758 main/binary-arm64/Packages
  f07cf299b7fc682386203583a45c2df86e6e4b09677a27466ea519ff5b1837ec 1690 main/binary-arm64/Packages.gz
  ae10a9686b2ca7c38f4cca90d8d3ed3d1de57d0da063f41e8179ddec2f46ad66 132 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQHCBAEBCAAsFiEEV7epi766jBDKRFiBDdCIEUeLEkkFAmFMsMYOHGdudWJzZEBt
-ZS5jb20ACgkQDdCIEUeLEkmHtQv+OmSnGvdUZ1Y9kIpiRRPIYwSwb9V0COypdy7j
-xV+zVyLI3yybHdedEFIWsKpr11lQEVto4pUOkDaGnp740SHnfmr1YBIIr6sasnJu
-vxaloSsBMINq06GRbbsFV9y1MyIBAq6DMKTQAtROO5g1tktZDCxu86C261y6mdqg
-IKo0jS3qsFiv/5gBJj4RCN4YqLozqTtEEXxRZY2xpptpLglNZkfzGwWoKNW8A+FU
-HCppnhr5eLA6J2QU/Q3o4nGOcF844SZBlHqB3LjAl/ADynNnGu84zTUWaq6aVif9
-SEKEN/ZTO3JKJlWVkmp7ua7rDRvjKpOf5REog+g6oMdlD4vpYPeGMUeXS/rIou8v
-bMjMPT/kR0SuQiMLb5nfn1lUW2ZfUjVlfq1THiGSBKe9hVYjrk12VVYxrzbKsgOh
-W7kZB21AHQZl54oe3jcDNTiLhimRzzV4btc7FElvOpfDn4MpfysVVRkRs6FkWhS/
-yZjej9ely/ZK9Bo9AK7nzqUgQWCS
-=+oI0
+iQHCBAEBCAAsFiEEV7epi766jBDKRFiBDdCIEUeLEkkFAmGEuToOHGdudWJzZEBt
+ZS5jb20ACgkQDdCIEUeLEknTagv8DlsXi9XKOb2r1VhyvGR+XD4EvuegkfS8SNaK
+BiP6/jl/+DbsCSN2hH/FFtQvQ5lOueHhnyCyax15JrDtTxEhxj2TH6RduYJQfQAD
+Xfks4WU37/5VyZCG5fDyMbKEs3D3oIH/Yunr2X7a4mYDeuZsR3iGyCQMhQT4cF3u
+8SZ2a82Oonpuf8FvThtLOimj5G/2FuZjrna46BUoB405Se9VONnwJs49G1o3mG12
+30Mjm6CB2T+tNH8VX1YEy4DVSwLKnD+m6UVA3pBzmItzpcJI+1xx4sgCI4sDdgMU
+uuFXOfclZVJzwtTMZQ4W3bpoefO7elvZK0mrGKnLYkOEFTMd6THc3v9NJVZ1alL6
+lQ1Wk8k/DkfSFVpwaHrr/HoYFyYtGGbik9i2pZkX9V/T5ykpy78TFztV0eXn88FE
+crcAF5mcZPNTwTe+RbbeaQSEBrQ2mABHulR8NCqyRtA5h9i+1vGapsowTXRs8V3F
+xAxN5Zd3gqy9sIIGOWvQxtDlXEVL
+=zYZD
 -----END PGP SIGNATURE-----
