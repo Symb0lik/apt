@@ -59,6 +59,22 @@ SHA1: 3625189bb19d1027f01155650560a5560ef87b0c
 MD5sum: dc1af3d96bbae2a2e57eedb03484e4f0
 Description: devterm fan control script for raspberry pi
 
+Package: devterm-i3tools-rpi
+Version: 0.1
+Installed-Size: 152
+Maintainer: cuu <gnubsd@me.com>
+Architecture: armhf
+Depends: libnotify-bin
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-i3tools-rpi/devterm-i3tools-rpi_0.1_armhf.deb
+Size: 46184
+SHA256: 160cb07d68925817647bd88c6e5e7921e0e58dc7f7407dfd7b93aa65c6f996a5
+SHA1: 0f6f0749163e3c25d1e887057b58f789fbdaeacc
+MD5sum: 0732b5a5fb8fb972875861a43978ec8e
+Description: devterm-i3tools-rpi  for cm3
+ devterm-i3tools-rpi for cm3
+
 Package: devterm-kernel-rpi
 Version: 0.06
 Installed-Size: 66468
