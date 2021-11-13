@@ -161,3 +161,19 @@ MD5sum: ce4529b9d2611b6b6716fe2e9e3cf540
 Description: wiringpi for cpi a06
  wiringpi for cpi a06
 
+Package: devterm-wiringpi-cpi-a04
+Version: 0.1
+Installed-Size: 232
+Maintainer: cuu <gnubsd@me.com>
+Architecture: arm64
+Conflicts: wiringpi
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-wiringpi-cpi-a04/devterm-wiringpi-cpi-a04_0.1_arm64.deb
+Size: 60600
+SHA256: 90deaa8e58069bdedce2783db65afb63338540ff56bb35ebf1e14cf344f3c674
+SHA1: e4669ddfcf49dfbe93d5f34287846af603026d53
+MD5sum: 303cf839037c0f254874adf05d124fb2
+Description: devterm-wiringpi-cpi-a04
+ devterm-wiringpi-cpi-a04  for a04
+
