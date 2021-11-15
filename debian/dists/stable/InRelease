@@ -4,7 +4,7 @@ Hash: SHA256
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Sat, 13 Nov 2021 11:44:18 UTC
+Date: Mon, 15 Nov 2021 05:14:28 UTC
 Architectures: armhf arm64
 Components: main
 Description: cpi repository
@@ -12,34 +12,34 @@ MD5Sum:
  8df1504ddebadd443a31afccd9cf6fdb 6853 main/binary-armhf/Packages
  941dfcb683aae33f7063d35cf7e105c9 2533 main/binary-armhf/Packages.gz
  e78ab3d0894fe637dfc81febdfe9e2e0 133 main/binary-armhf/Release
- 844acb4d01f4875e257dfda405dbf36b 6256 main/binary-arm64/Packages
- cc02629d7e59f0da03ec7a4a3c6bab24 2067 main/binary-arm64/Packages.gz
+ c611c175341d55dcac650836b45c2513 6724 main/binary-arm64/Packages
+ 6f8911c903888c970ac1467c8e7a21f8 2187 main/binary-arm64/Packages.gz
  e1a701d89fa7c0df95243911d1580d6d 132 main/binary-arm64/Release
 SHA1:
  38d0ebf00e0ea3b5e1897b0b5c1d428c81a51b15 6853 main/binary-armhf/Packages
  7afeb428eab411f66bd8d7bd02687e49219bbbe9 2533 main/binary-armhf/Packages.gz
  6c6d59970adfeae5a666a944fafd1ff26bd7a19f 133 main/binary-armhf/Release
- 1d9a611012223d57bb7c92e9aaf4bacd3fb887fa 6256 main/binary-arm64/Packages
- 37c1717beb5b14711a45b0288d9acee868d7af9f 2067 main/binary-arm64/Packages.gz
+ b3ebb9efbbceebd5e90b3b646ece477c71536d72 6724 main/binary-arm64/Packages
+ 1eb69478372025a5404da1d05c7d84e1adbca56b 2187 main/binary-arm64/Packages.gz
  93043cb202ad6c014b45b1d6565687c45ff6914f 132 main/binary-arm64/Release
 SHA256:
  9dbb1eebea12210040cd64f518853992e4ecc069c997947cc6012b19a41533b0 6853 main/binary-armhf/Packages
  9c62b282518c4101bc3fe5b5e382c29c670340d86d5dfd4ca6f326466e988272 2533 main/binary-armhf/Packages.gz
  12ec441437b47dddeedbc631363c9d23cb4682784a918d7d78757bf8a038b949 133 main/binary-armhf/Release
- 52635df50faabb3a09a20e279e1b9374aeb1c465c0161c2a21af67e920f61157 6256 main/binary-arm64/Packages
- f697d709f9afb44405bcc1bb37b3f813657d610697da330b8fe14b2ba933d089 2067 main/binary-arm64/Packages.gz
+ 355efd495d5c70816f20c4db890db66d8373e9bc9177b6e12915dc0cc97b9647 6724 main/binary-arm64/Packages
+ 11584383a9c4e819910c82c601057492d660d30696460bdd964359c7d39f14ed 2187 main/binary-arm64/Packages.gz
  ae10a9686b2ca7c38f4cca90d8d3ed3d1de57d0da063f41e8179ddec2f46ad66 132 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQHCBAEBCAAsFiEEV7epi766jBDKRFiBDdCIEUeLEkkFAmGPpRIOHGdudWJzZEBt
-ZS5jb20ACgkQDdCIEUeLEkmFzwwAqcXaLnb0uMNAwZ33/zdwqy7ZNEYg3OV07Lnt
-ZPjcDYvuvsSO57ricTSjnRNY3iMO++YnKmE9ijDPNZM+SzJxf4OmBzOssteZbhQI
-weAOgLYj/4We8mRWcLF5BCeCJd0LK3kCAyOW900kIYlQtg6FTLqAPVbbzIMfucAZ
-lDgXOp3J/jHcJYDDig1D06KS3cJYcVW96eFZx9Lty/zfjU9uRj82Tz6tzvlTmzuW
-MHNbr9TRyfa+AxIA6lEVfauPD4H4kakwOQ9tw10ABKZnIlvirqFJ2qjrOOHjEz0X
-e07LY1dveFOeXS5v9ic3/M9Q3CM5oqKYm95bccLRLWF4H2L4uAvqJiIfTjOTUkAG
-UNU1Aw/EntzZVM+2vLAopium3E1Ja7TKwuPd2f/TboesHbCv0OCccSokvj8yPnFH
-lz326eShsPQsw9l3oN4a2MPztA8WPhZk5bABnAmbCWuywMVAGWwU/nMiPwjkuPDw
-ypr9QkgCJT1keHdS1tdYiWNLgfTT
-=4S1S
+iQHCBAEBCAAsFiEEV7epi766jBDKRFiBDdCIEUeLEkkFAmGR7LQOHGdudWJzZEBt
+ZS5jb20ACgkQDdCIEUeLEkn5vgwAp41djhOjDWTr2B8DyLa68hHxCgH1IthPfrEq
+UUnKU/GDHsC4m2On5oyco5K+d17k3PGHEyUXdOmhYvS3Z9XD9qpjdMxlzLK5Nb2u
+H11uoNAQxvM8bbshQGC+a5yMuOh/AzEDnAGfRntMpSk3csUtDmo5qQlEUVtt4CFX
+9doGXkbm5jjDnwkzIeomv0CIz8mbV355Q/0gIIOmBOuZT48qkEgEfYbns3ZyIcjv
+MUIijgtByLXi0K5C+pkCCyLU0dbbwkZ+F7egIeGlMvMIvlw/DAAG35dT+NkWgVhL
+V82l9ZA4Q09R87jT0z8iwhfpE3eAt+qQxjAPwnOHEJlFJvd9jnsQvkI/R4oTHhZO
+ii/VmIkGtmHn1Zoevvp9QqNk2PzZB8ncXpNXzzfJ+3h6wbpZHRetTpTLdkOlaEyC
+YbUKcMdn28R9+OamWlp0KGgeBvjmT6plVUTxCGNrcAvKdpxcfS9morcuPTs0/nkn
+MgcsTbu5LdFhfWXZxlVkHJQAmHKM
+=njNv
 -----END PGP SIGNATURE-----
