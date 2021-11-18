@@ -194,18 +194,18 @@ Description: wiringpi for cpi a06
  wiringpi for cpi a06
 
 Package: devterm-wiringpi-cpi-a04
-Version: 0.1
+Version: 0.11
 Installed-Size: 232
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Conflicts: wiringpi
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-wiringpi-cpi-a04/devterm-wiringpi-cpi-a04_0.1_arm64.deb
-Size: 60600
-SHA256: 90deaa8e58069bdedce2783db65afb63338540ff56bb35ebf1e14cf344f3c674
-SHA1: e4669ddfcf49dfbe93d5f34287846af603026d53
-MD5sum: 303cf839037c0f254874adf05d124fb2
+Filename: pool/main/d/devterm-wiringpi-cpi-a04/devterm-wiringpi-cpi-a04_0.11_arm64.deb
+Size: 60512
+SHA256: 86ac87732fabe9f948c1715ef580ba44802943cc64ee748aa0c8ec9dced1ff49
+SHA1: ce434bc6a0c4d434a9800201fdbb8d85b76ba438
+MD5sum: 0e760cefcdbb799fd6f71786f1f85032
 Description: devterm-wiringpi-cpi-a04
  devterm-wiringpi-cpi-a04  for a04
 
