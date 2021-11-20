@@ -14,18 +14,18 @@ Description: devterm-audio-patch
  devterm audio patch
 
 Package: devterm-fan-daemon-cpi-a04
-Version: 0.1
-Installed-Size: 52
+Version: 0.11
+Installed-Size: 56
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Depends: python3
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-fan-daemon-cpi-a04/devterm-fan-daemon-cpi-a04_0.1_arm64.deb
-Size: 14956
-SHA256: db2d6159b19224de051106b3aa2dae91d3e051e113b619da3f81fd695fcc2343
-SHA1: a61d68842bb95830a586dc9b6f62f331509dc4d4
-MD5sum: 64a592741f882af359bfd5dc41a825f9
+Filename: pool/main/d/devterm-fan-daemon-cpi-a04/devterm-fan-daemon-cpi-a04_0.11_arm64.deb
+Size: 15156
+SHA256: 589d6d9586ff431b69ca8f45334a130d54618b5ff874e554cef1080a299afc8a
+SHA1: f1ac48827c4edb1c48f948c863d1577f6c17d12f
+MD5sum: 5ba62871845cb3dd0604a47384e46de7
 Description: devterm fan control for a04
  devterm fan control for a04
 
