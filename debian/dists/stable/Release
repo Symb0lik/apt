@@ -1,7 +1,7 @@
 Origin: clockworkpi.github.io/apt
 Label: clockworkpi.github.io/apt/
 Codename: stable
-Date: Sat, 04 Dec 2021 09:10:33 UTC
+Date: Thu, 09 Dec 2021 06:36:11 UTC
 Architectures: armhf arm64
 Components: main
 Description: cpi repository
@@ -9,20 +9,20 @@ MD5Sum:
  8df1504ddebadd443a31afccd9cf6fdb 6853 main/binary-armhf/Packages
  941dfcb683aae33f7063d35cf7e105c9 2533 main/binary-armhf/Packages.gz
  e78ab3d0894fe637dfc81febdfe9e2e0 133 main/binary-armhf/Release
- 871e9bd6f0aca12d0b16f04abfc96681 7812 main/binary-arm64/Packages
- e7fdfc85a80e3df3f07cda6d4abb0c49 2442 main/binary-arm64/Packages.gz
+ 942bd1b01a14d5c62c64e4753714cdbe 8424 main/binary-arm64/Packages
+ 7db276dc1223d90b9fa08ede7fcf2f3d 2620 main/binary-arm64/Packages.gz
  e1a701d89fa7c0df95243911d1580d6d 132 main/binary-arm64/Release
 SHA1:
  38d0ebf00e0ea3b5e1897b0b5c1d428c81a51b15 6853 main/binary-armhf/Packages
  7afeb428eab411f66bd8d7bd02687e49219bbbe9 2533 main/binary-armhf/Packages.gz
  6c6d59970adfeae5a666a944fafd1ff26bd7a19f 133 main/binary-armhf/Release
- e6628175afac01bfdcd587f3b71a58eea1280d5f 7812 main/binary-arm64/Packages
- da49a0c676ca88f07b782b55f0507814c56744c9 2442 main/binary-arm64/Packages.gz
+ 9288491702804586f8a741a59f737ae04fa727f1 8424 main/binary-arm64/Packages
+ 22c3f7bbea9384e8256fd7d57d9ecc1d37f514ab 2620 main/binary-arm64/Packages.gz
  93043cb202ad6c014b45b1d6565687c45ff6914f 132 main/binary-arm64/Release
 SHA256:
  9dbb1eebea12210040cd64f518853992e4ecc069c997947cc6012b19a41533b0 6853 main/binary-armhf/Packages
  9c62b282518c4101bc3fe5b5e382c29c670340d86d5dfd4ca6f326466e988272 2533 main/binary-armhf/Packages.gz
  12ec441437b47dddeedbc631363c9d23cb4682784a918d7d78757bf8a038b949 133 main/binary-armhf/Release
- 81387709637fd436135f50bedf3001d3b32203f4bc4ee95133272f131c0dfecb 7812 main/binary-arm64/Packages
- b5289051172073251a54b87f9383b31f492d78f1b16987c95369b68185d74399 2442 main/binary-arm64/Packages.gz
+ 58eaa4590e4ff7d6142c5d4612307eb9c381deba8d05580b5f62b2d4e3a1b08d 8424 main/binary-arm64/Packages
+ 7200b3a4856b7f3f581667e29dd90e0d11ee82208e2bd1fb32c0a521357f23f3 2620 main/binary-arm64/Packages.gz
  ae10a9686b2ca7c38f4cca90d8d3ed3d1de57d0da063f41e8179ddec2f46ad66 132 main/binary-arm64/Release
