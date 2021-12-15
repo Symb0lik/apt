@@ -192,6 +192,23 @@ Description: devterm-keyboard-firmware
  .
  if you need to flash, do it manually
 
+Package: devterm-spotify-tui-cpi
+Version: 0.1
+Installed-Size: 18304
+Maintainer: cuu <gnubsd@me.com>
+Homepage: https://github.com/Rigellute/spotify-tui
+Architecture: arm64
+Priority: optional
+Section: utils
+Filename: pool/main/d/devterm-spotify-tui-cpi/devterm-spotify-tui-cpi_0.1_arm64.deb
+Size: 3510434
+SHA256: 67da8fb4844cdb310164b6be4e075965b1e3b7a4a3f41e66cb309b1abb48d2db
+SHA1: b5bfd1bf9067776d8a7d0f0cd20e864a096ddd2e
+MD5sum: 09244169702c02d9ed01278999c0a319
+Description: devterm-spotify-tui-cpi for a06 a04
+ devterm-spotify-tui-cpi for a06 a04
+ https://github.com/Rigellute/spotify-tui
+
 Package: devterm-thermal-printer
 Version: 0.3
 Installed-Size: 136
