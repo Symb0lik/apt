@@ -1,16 +1,16 @@
 Package: devterm-audio-patch
-Version: 0.02
+Version: 0.03
 Installed-Size: 52
 Maintainer: cuu <gnubsd@me.com>
 Architecture: all
 Depends: python2
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-audio-patch/devterm-audio-patch_0.02_all.deb
-Size: 13912
-SHA256: ce3090bc8a6a8dbc6ea0a704e3cda5b682a6ae16eb36906531a09e5b67647897
-SHA1: 666e6540f70ac243c28da835bab74537bad3011c
-MD5sum: b7da3e8f4a9d8ded702bb20ab2cb11f2
+Filename: pool/main/d/devterm-audio-patch/devterm-audio-patch_0.03_all.deb
+Size: 13928
+SHA256: 7f127f48ad5f634dc7ac42c3d6ab329475144ebed5d0221d88851785dcddcd7e
+SHA1: 3e8cc8133e6f32a137058e93834620d8713b0ef3
+MD5sum: f82532044b73ea01a73a4fde0b73d937
 Description: devterm-audio-patch
  devterm audio patch
 
