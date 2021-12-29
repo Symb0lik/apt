@@ -158,7 +158,7 @@ Description: devterm-i3tools-a06
  devterm-i3tools-a06
 
 Package: devterm-kernel-current-cpi-a04
-Version: 0.5
+Version: 0.6
 Installed-Size: 168276
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
@@ -166,11 +166,11 @@ Depends: devterm-audio-patch
 Conflicts: linux-dtb-current-sunxi64, linux-image-current-sunxi64
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-kernel-current-cpi-a04/devterm-kernel-current-cpi-a04_0.5_arm64.deb
-Size: 33579188
-SHA256: 054aa8c0ea8692a7809d5f7a5c1b4f0ed0328ef4eab356057b6da97573699140
-SHA1: a88ce0fdf66be846f94b4590f4946c87a62795a1
-MD5sum: 8bf58effc15d112d6905297b3a1dafc0
+Filename: pool/main/d/devterm-kernel-current-cpi-a04/devterm-kernel-current-cpi-a04_0.6_arm64.deb
+Size: 33567208
+SHA256: 15ca149180fb8f379a0217666856fc26cc05e5ed7a9e53dae7f3e462703ed315
+SHA1: a98bd8372b8c345c76f04c7f4bf2dfd06b603910
+MD5sum: 01d02581fc639cb1c63e817c003bb102
 Description: devterm-kernel-current-cpi-a04
  devterm-kernel-current-cpi-a04
 
