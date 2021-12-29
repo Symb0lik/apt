@@ -31,18 +31,18 @@ Description: devterm-cavestory-cpi for a06 a04
  devterm-cavestory-cpi for a06 a04
 
 Package: devterm-fan-daemon-cpi-a04
-Version: 0.12
+Version: 0.13
 Installed-Size: 56
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Depends: python3
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-fan-daemon-cpi-a04/devterm-fan-daemon-cpi-a04_0.12_arm64.deb
-Size: 15148
-SHA256: 434602f7bac506d94b4ea1153df6bcbbcddda15267e08a748efdb701e9bab5fe
-SHA1: 90425375bad74f56d5ebbe990e1eb17714f14252
-MD5sum: f8edd405ad2b139ddb3d8c2fbe7f01aa
+Filename: pool/main/d/devterm-fan-daemon-cpi-a04/devterm-fan-daemon-cpi-a04_0.13_arm64.deb
+Size: 15192
+SHA256: 171fdf35dc5e672067438f8e6ed64360004ddcc88ef046612ac4b5817e87bbda
+SHA1: 5cfd3cc5359a98fac77845f275071aad70411a00
+MD5sum: 7a91ea70409816cf3d4468af83158df9
 Description: devterm fan control for a04
  devterm fan control for a04
 
