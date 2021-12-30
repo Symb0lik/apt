@@ -110,18 +110,18 @@ Description: first start tip window based by zenity
  first start tip window based by zenity
 
 Package: devterm-gearbox-a04
-Version: 0.12
+Version: 0.13
 Installed-Size: 60
 Maintainer: cuu <gnubsd@me.com>
 Architecture: arm64
 Depends: python3
 Priority: optional
 Section: utils
-Filename: pool/main/d/devterm-gearbox-a04/devterm-gearbox-a04_0.12_arm64.deb
-Size: 16196
-SHA256: 1e65748a842f0b7d337dc0f54da74c81a0d492de10e48feaa09880f2c7c2fc0e
-SHA1: 02e140fd6313d5f7c0383a5ed8f5409365e05704
-MD5sum: 24c136f449e3e72e3e49dd54faaf9b6b
+Filename: pool/main/d/devterm-gearbox-a04/devterm-gearbox-a04_0.13_arm64.deb
+Size: 16240
+SHA256: e63973b675a9a5e80e3aef7373fbd13202d0c5853e78ed544e00132c5ea75768
+SHA1: 2b255f0bcd031742394e37c21d63450582513404
+MD5sum: 9328bcc8858b5cb37e06d5d25f764ed0
 Description: devterm-gearbox-a04
  devterm-gearbox-a04
 
